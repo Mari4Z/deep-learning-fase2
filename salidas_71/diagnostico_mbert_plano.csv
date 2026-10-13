@@ -1,0 +1,2 @@
+P_macro,R_macro,F1_macro,accuracy,TN,FP,FN,TP,frac_pred_1,F1_macro_589,accuracy_589,segundos,epocas_ejecutadas,modelo,semilla
+25.583333333333336,50.0,33.84785005512679,51.16666666666667,307,0,293,0,0.0,33.74578177727784,50.93378607809848,337.3962211608887,4,mBERT optimización plana,0

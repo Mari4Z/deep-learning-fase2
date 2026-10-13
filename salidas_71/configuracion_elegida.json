@@ -1,0 +1,17 @@
+{
+ "nivel": "T3",
+ "checkpoint": "dccuchile/bert-base-spanish-wwm-uncased",
+ "lote": 16,
+ "max_len": 64,
+ "warmup": 0.06,
+ "recorte": 1.0,
+ "lr_head": 0.001,
+ "datos": "salidas_71/datos_local.json",
+ "log": "salidas_71/progreso_bert.log",
+ "features": "salidas_71/features_T0",
+ "n_desc": 12,
+ "lr_enc": 3e-05,
+ "epocas": 3,
+ "paciencia": 1,
+ "criterio": "mayor PR-AUC medio en validaci\u00f3n; si la diferencia es menor que una desviaci\u00f3n, el que entrena menos par\u00e1metros"
+}

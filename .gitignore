@@ -1,0 +1,10 @@
+# Datos y artefactos grandes que el cuaderno vuelve a generar o descargar
+datos_*.json
+features_T0_*.npy
+embeddings_sbwc_subconjunto.vec
+repositorio_articulo*/
+articulo_zenodo.zip
+progreso_bert.log
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

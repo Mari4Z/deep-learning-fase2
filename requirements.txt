@@ -1,0 +1,15 @@
+# Entorno usado para los resultados del informe (Python 3.12, macOS con chip Apple).
+tensorflow==2.18.1
+tf-keras==2.18.0
+transformers==4.57.6
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.0.2
+matplotlib==3.11.2
+huggingface_hub==0.36.2
+pyarrow==26.0.0
+ipykernel
+nbformat
+nbclient
+# Solo en Mac con chip Apple (GPU Metal). En otras plataformas se omite y el entrenamiento usa CPU o la GPU disponible.
+tensorflow-metal==1.2.0; sys_platform == "darwin"

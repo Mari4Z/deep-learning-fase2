@@ -1,0 +1,1 @@
+{"hist": {"loss": [0.3000707435393424, 0.17201284344016451], "val_loss": [0.10422325879335403, 0.20405125617980957]}, "mejor_epoca": 1, "parametros_entrenables": 109852418, "paso_mediano_s": 0.8486586455001088, "epocas_ejecutadas": 2}
