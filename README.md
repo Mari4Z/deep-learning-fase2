@@ -36,6 +36,4 @@ Todas las semillas están fijadas. Las corridas de BERT en GPU no son idénticas
 - Corpus local: Pérez et al. (2023), <https://huggingface.co/datasets/piuba-bigdata/contextualized_hate_speech> (el repositorio no declara licencia: se usa con fines académicos).
 - Modelos preentrenados: BETO (`dccuchile/bert-base-spanish-wwm-uncased` y `-cased`; Cañete et al., 2020) y mBERT (`bert-base-multilingual-cased`; Devlin et al., 2019).
 
-## Declaración de uso de IA generativa
 
-Se utilizó Claude (Anthropic) como apoyo en la revisión del código, la ejecución de los experimentos y la redacción. Las autoras revisaron los resultados y pueden sustentar cada decisión técnica.
